@@ -1,0 +1,35 @@
+.dark {
+  background-color: #1f1f1f;
+}
+.dark .__markdown__ {
+  color: #ccc;
+}
+.dark .__markdown__ h1 {
+  color: #ccc;
+}
+.dark .__markdown__ blockquote {
+  color: #fff;
+  background-color: #2b2b2b;
+  border-color: #444444;
+}
+.dark .__markdown__ .plain {
+  color: #8a8a8a;
+}
+.dark .__markdown__ h1,
+.dark .__markdown__ h2,
+.dark .__markdown__ h3,
+.dark .__markdown__ h4,
+.dark .__markdown__ h5,
+.dark .__markdown__ h6 {
+  color: #ccc;
+}
+.dark .__markdown__ mark {
+  color: #ddd;
+  background: rgba(255, 255, 255, 0.1);
+}
+.dark .__markdown__ a {
+  color: #a6ddff;
+}
+.dark .__markdown__ code {
+  background-color: #111;
+}
